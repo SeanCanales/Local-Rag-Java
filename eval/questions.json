@@ -1,0 +1,235 @@
+[
+  {
+    "id": "q01",
+    "type": "fact",
+    "question": "What is the maximum total liability of the Instagram parties under the 2013 terms?",
+    "file": "Instagram_Terms_of_Use_01-19-2013.pdf",
+    "expectedPhrases": [
+      "one hundred united states dollars"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "q02",
+    "type": "fact",
+    "question": "How long can TikTok go without you logging in before it may reclaim your account name?",
+    "file": "Terms_of_Service_TikTok.pdf",
+    "expectedPhrases": [
+      "not logged into your account for 6 months"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "q03",
+    "type": "multi",
+    "question": "What are TikTok's minimum age for using the platform and its minimum age for live streaming?",
+    "file": "Terms_of_Service_TikTok.pdf",
+    "expectedPhrases": [
+      "13 years or older",
+      "you must be 18 or older to live stream"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "q04",
+    "type": "fact",
+    "question": "What number Lord Mayor of Dublin wrote the welcome in the council's annual report?",
+    "file": "dublin-city-council-annual-report-and-accounts-2025.pdf",
+    "expectedPhrases": [
+      "358th lord mayor of dublin"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "q05",
+    "type": "unanswerable",
+    "question": "What is the best recipe for sourdough bread?",
+    "answerable": false
+  },
+  {
+    "id": "q06",
+    "type": "fact",
+    "question": "According to the Chief Executive's introduction in the annual report, what level did unemployment rise to in Dublin in 2025?",
+    "file": "dublin-city-council-annual-report-and-accounts-2025.pdf",
+    "expectedPhrases": [
+      "Unemployment did rise slightly to 5%"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "q07",
+    "type": "fact",
+    "question": "How many households were prevented from entering emergency accommodation in Dublin City in 2025 according to the annual report?",
+    "file": "dublin-city-council-annual-report-and-accounts-2025.pdf",
+    "expectedPhrases": [
+      "1,637 households prevented from entering emergency accommodation"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "q08",
+    "type": "fact",
+    "question": "What percentage of fire incidents in Dublin City had first attendance at the scene within 10 minutes in 2025 according to the annual report?",
+    "file": "dublin-city-council-annual-report-and-accounts-2025.pdf",
+    "expectedPhrases": [
+      "72.5%"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "q09",
+    "type": "fact",
+    "question": "How many gully cleaning service requests were there in Dublin City in 2025 according to the annual report?",
+    "file": "dublin-city-council-annual-report-and-accounts-2025.pdf",
+    "expectedPhrases": [
+      "3,594 gully cleaning service requests"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "q10",
+    "type": "fact",
+    "question": "How old must you be to use Instagram according to the 2013 terms?",
+    "file": "Instagram_Terms_of_Use_01-19-2013.pdf",
+    "expectedPhrases": [
+      "must be at least 13 years old to use the Service"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "q11",
+    "type": "fact",
+    "question": "How long do you have to file a claim against Instagram under the 2013 terms?",
+    "file": "Instagram_Terms_of_Use_01-19-2013.pdf",
+    "expectedPhrases": [
+      "must be filed within one year after such claim arose"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "q12",
+    "type": "fact",
+    "question": "How many days do you have to opt out of Instagram's arbitration agreement?",
+    "file": "Instagram_Terms_of_Use_01-19-2013.pdf",
+    "expectedPhrases": [
+      "you must notify instagram in writing within 30 days"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "q13",
+    "type": "fact",
+    "question": "Which state's laws govern Instagram's 2013 terms of use?",
+    "file": "Instagram_Terms_of_Use_01-19-2013.pdf",
+    "expectedPhrases": [
+      "governed by and construed in accordance with the laws of the state of california"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "q14",
+    "type": "multi",
+    "question": "What is Instagram's minimum age, and what can happen to your account if you violate the 2013 terms?",
+    "file": "Instagram_Terms_of_Use_01-19-2013.pdf",
+    "expectedPhrases": [
+      "must be at least 13 years old to use the Service",
+      "result in termination of your instagram account"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "q15",
+    "type": "fact",
+    "question": "How old must you be to use TikTok's direct messaging feature?",
+    "file": "Terms_of_Service_TikTok.pdf",
+    "expectedPhrases": [
+      "you must be 16 or older to use the direct messaging feature"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "q16",
+    "type": "fact",
+    "question": "What factors does TikTok's recommendation system take into account for the For You feed?",
+    "file": "Terms_of_Service_TikTok.pdf",
+    "expectedPhrases": [
+      "likes, shares, comments, searches, diversity of content"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "q17",
+    "type": "multi",
+    "question": "Which TikTok company is the contract with for users in the EEA and Switzerland, and which country's courts can hear disputes with it?",
+    "file": "Terms_of_Service_TikTok.pdf",
+    "expectedPhrases": [
+      "your contract is with tiktok technology limited",
+      "courts of the republic of ireland"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "q18",
+    "type": "fact",
+    "question": "Which TikTok company is the contract with for users resident in the United Kingdom?",
+    "file": "Terms_of_Service_TikTok.pdf",
+    "expectedPhrases": [
+      "your contract is with tiktok information technologies uk limited"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "q19",
+    "type": "fact",
+    "question": "How many branches does Dublin City Libraries have according to the annual report?",
+    "file": "dublin-city-council-annual-report-and-accounts-2025.pdf",
+    "expectedPhrases": [
+      "with 18 branches across the city"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "q20",
+    "type": "fact",
+    "question": "How many playgrounds were there in Dublin City Parks after the four new ones delivered in 2025?",
+    "file": "dublin-city-council-annual-report-and-accounts-2025.pdf",
+    "expectedPhrases": [
+      "bringing the total number to 74"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "q21",
+    "type": "fact",
+    "question": "How many units were pending decision on planning applications in Dublin at the end of 2025?",
+    "file": "dublin-city-council-annual-report-and-accounts-2025.pdf",
+    "expectedPhrases": [
+      "3,949 units pending decision on planning applications"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "q22",
+    "type": "unanswerable",
+    "question": "What is the capital city of Australia?",
+    "answerable": false
+  },
+  {
+    "id": "q23",
+    "type": "unanswerable",
+    "question": "Who won the 2018 FIFA World Cup?",
+    "answerable": false
+  },
+  {
+    "id": "q24",
+    "type": "unanswerable",
+    "question": "How do I change a flat tyre on a bicycle?",
+    "answerable": false
+  },
+  {
+    "id": "q25",
+    "type": "unanswerable",
+    "question": "What is the boiling point of water at sea level?",
+    "answerable": false
+  }
+]
