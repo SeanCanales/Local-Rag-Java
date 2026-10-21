@@ -4,8 +4,6 @@ A document Q&A application in Java. Upload PDF, text or Markdown files, ask ques
 
 **Stack:** Java, Spring Boot, LangChain4j, Ollama (`llama3.2:3b` for answers, `nomic-embed-text` for embeddings), PostgreSQL with pgvector, Docker Compose.
 
-[Screenshot or demo GIF here]
-
 ## How it works
 
 ```
@@ -130,12 +128,3 @@ src/main/resources/static/index.html    web UI
 eval/questions.json                     evaluation questions
 docker-compose.yml                      PostgreSQL with pgvector
 ```
-
-## Roadmap
-
-- [ ] Near-miss unanswerable questions in the evaluation set
-- [ ] Streaming answers in the UI
-- [ ] List and delete stored documents, and skip duplicate uploads
-- [ ] Integration tests with Testcontainers
-- [ ] Dockerfile and a single-command full stack
-- [ ] OCR for scanned PDFs
